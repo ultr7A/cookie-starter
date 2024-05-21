@@ -1,5 +1,3 @@
-# install
-./install.sh
 
 # update the game engine + site generator
 cd cookie-star
