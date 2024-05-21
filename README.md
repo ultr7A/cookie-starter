@@ -1,2 +1,2 @@
-# ultr7a.com-deployment
+# cookie-star generator
 build artifacts of ultr7a.com (game+blog), and markdown content
