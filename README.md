@@ -9,8 +9,10 @@ You can...
 # Let's go!
 + Step 1. Fork this repo
 
-+ Optional clone and push to private repo, (if you'd like to maintain the element of surprise)
++ Optional: clone and push to private repo, (if you'd like to maintain the element of surprise)
 
 + Step 2. `./install.sh`
-+ Step 3. add your content to ./content
-+ Step 4. When you make changes to your 3d blog, run `./build.sh` 
++ Step 3. add your content to `./content`
++ Step 4. When you make changes to your 3d blog, run `./build.sh` g
+
+Generated vr site ends up in `./dist` (unless configured otherwise in build.sh)
