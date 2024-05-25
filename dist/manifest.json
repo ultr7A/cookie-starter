@@ -1,0 +1,12 @@
+{
+    "short_name": "Cool App",
+    "name": "who dis?",
+    "icons": [
+      
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#ffc8ff",
+    "background_color": "#ffffff"
+  }
+  
